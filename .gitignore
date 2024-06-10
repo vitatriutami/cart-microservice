@@ -1,2 +1,5 @@
 node_modules
 .env
+./src/routes/api.router,ts
+./src/controllers/cart.controller copy.ts
+./src/controllers/data copy.ts

@@ -1,0 +1,9 @@
+version: "3.8"
+
+services:
+  expressjs:
+    build: .
+    environment:
+      - PORT=8005
+    ports:
+      - "8005:8005"
